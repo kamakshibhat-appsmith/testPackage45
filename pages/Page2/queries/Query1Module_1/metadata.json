@@ -1,7 +1,5 @@
 {
-  "moduleInstanceId": "Page2_Query1Module_1",
   "isPublic": true,
-  "rootModuleInstanceId": "Page2_Query1Module_1",
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
