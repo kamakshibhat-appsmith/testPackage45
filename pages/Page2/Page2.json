@@ -13,14 +13,14 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 510,
+          "bottomRow": 130,
           "containerStyle": "none",
-          "snapRows": 50,
+          "snapRows": 12,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 89,
-          "minHeight": 520,
+          "minHeight": 140,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -38,5 +38,5 @@
     "policies": []
   },
   "deleted": false,
-  "gitSyncId": "65eab798c14a2a2b8c8a97d9_65ead668387c4b2b479f86b9"
+  "gitSyncId": "65ead85b387c4b2b479f87c4_65ead8e5387c4b2b479f888c"
 }
